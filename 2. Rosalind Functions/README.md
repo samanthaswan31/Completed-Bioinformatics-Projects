@@ -5,15 +5,15 @@ These are solutions to bioinformatics practice questions based on the genome ava
 
 Calculate the number of positions at which the corresponding symbols in two sequences of equal length differ.
 
-3. Translating RNA into Protein
+2. Translating RNA into Protein
 
 Convert an RNA sequence into a protein string using the standard genetic code.
 
-4. Finding a Motif in DNA
+3. Finding a Motif in DNA
 
 Identify the starting positions of all occurrences of a motif (short DNA sequence) within a larger DNA string.
 
-4.RNA Splicing
+4. RNA Splicing
 
 Simulate the process of RNA splicing by removing introns from a DNA sequence and translating the remaining exons into a protein.
 
