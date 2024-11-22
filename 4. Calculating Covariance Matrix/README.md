@@ -1,0 +1,3 @@
+# Developing Custom Functions for Mean and Covariance Matrix Calculation and Visualization Using the Iris Dataset
+
+This project involves the implementation of custom mean and cov functions to calculate the mean and covariance matrix for a data matrix without relying on external libraries. These functions were applied to the Iris dataset to compute the covariance matrix, which was visualized using Matplotlib's imshow with labeled axes representing the dataset's features. The results were validated by calculating the covariance matrix with pandas and visualizing it using Seaborn, confirming identical numerical outputs and consistent heatmaps, apart from minor stylistic differences.
