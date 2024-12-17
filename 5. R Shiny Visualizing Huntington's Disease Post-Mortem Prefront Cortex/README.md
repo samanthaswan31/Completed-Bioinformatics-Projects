@@ -1,6 +1,6 @@
 # R Shiny Visualizing Huntington's Disease Post-Mortem Prefrontal Cortex
 
-This Shiny app is designed to analyze the [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810](GSE64810 RNA-Seq dataset), which investigates transcriptional changes in postmortem human caudate nucleus samples associated with Huntington's Disease (HD). The dataset, available through the NCBI Gene Expression Omnibus (GEO), includes RNA-Seq data from 80 samples spanning:
+This Shiny app is designed to analyze the [GSE64810 RNA-Seq dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810), which investigates transcriptional changes in postmortem human caudate nucleus samples associated with Huntington's Disease (HD). The dataset, available through the NCBI Gene Expression Omnibus (GEO), includes RNA-Seq data from 80 samples spanning:
 
 HD Progression Stages:
 
