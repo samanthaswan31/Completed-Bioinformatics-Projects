@@ -13,6 +13,7 @@ Sample Source: Postmortem caudate nucleus tissues.
 Platform: Illumina HiSeq 2000 (RNA-Seq raw counts data).
 
 **App Features**
+
 The app allows users to interactively analyze and visualize this dataset with the following modules:
 
 **Sample Metadata Exploration:**
@@ -35,5 +36,6 @@ Customize thresholds for log-fold change and statistical significance.
 
 Explore gene relationships with correlation heatmaps.
 Generate interactive network graphs to visualize co-expression patterns.
+
 
 This app provides an accessible and user-friendly platform for exploring RNA-Seq data, enabling users to uncover key transcriptional changes and insights into the molecular mechanisms driving Huntington's Disease progression.
