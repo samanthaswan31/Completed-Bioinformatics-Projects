@@ -18,3 +18,4 @@ Computes the covariance matrix for a dataset.
 Accounts for missing data by dynamically adjusting calculations.
 Internally uses the custom mean function for mean computation.
 
+This project was developed with guidance from the Boston University BF550 Fall 2024 teaching team. Thank you to Dr. Ilijia Dukovsky, Yichi Zhang, and Junming Hu for your support and feedback.
