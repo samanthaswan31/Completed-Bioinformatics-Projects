@@ -39,3 +39,7 @@ Generate interactive network graphs to visualize co-expression patterns.
 
 
 This app provides an accessible and user-friendly platform for exploring RNA-Seq data, enabling users to uncover key transcriptional changes and insights into the molecular mechanisms driving Huntington's Disease progression.
+
+
+
+This project was developed with guidance from the Boston University BF91 Fall 2024 teaching team. Thank you to Dr. Joseph Orofino for your support and feedback.
