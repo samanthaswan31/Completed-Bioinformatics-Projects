@@ -17,7 +17,7 @@ BS in Neurobiology, Physiology, and Behavior at University of California Davis F
    
 2. Rosalind Bioinformatics Functions
    
-3. Design and Simulation of a Veterinary Trial to Evaluate Hepatitis E Vaccine Efficacy in Pig
+3. Design and Simulation of a Veterinary Trial to Evaluate a Vaccine Efficacy in a Model Organism Based Study
    
 4. Developing Custom Functions for Mean and Covariance Matrix Calculation and Visualization Using the Iris Dataset
 
