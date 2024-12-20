@@ -17,4 +17,4 @@ Accuracy Calculation: The accuracy for each subject is calculated by comparing t
 Plotting Results: The accuracy scores for each subject are plotted as a function of the number of principal components. This allows for a visual analysis of how the number of PCA components affects classification accuracy.
 
 
-This neuronal classifier was developed in collaboration with the (Moxon Lab)[https://moxonlab.bme.ucdavis.edu/] at the University of California Davis. Thank you to Dr. Karen Moxon and Logan Peters for their support with this project.
+This neuronal classifier was developed in collaboration with the [Moxon Lab](https://moxonlab.bme.ucdavis.edu/) at the University of California Davis. Thank you to Dr. Karen Moxon and Logan Peters for their support with this project.
